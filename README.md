@@ -2,9 +2,9 @@
 
 
 ## About
-Mi annoio molto facilmente
+Mi annoio molto facilmente.
 
 ## Contatti
 - Email: gregorio@duck.com
-
+- www.vocigregorio.it
 ---
