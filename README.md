@@ -1,12 +1,5 @@
-<div align="center">
-  
-# 🛡️ Gory | Cybersecurity Engineer 🛡️
+![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc5bjFrMXdxOHpiYW9hMjFiMTRqcXdqaTk2M2x3MHViNXhyYWhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Cybersecurity+Specialist;Embedded+Systems+Developer;CTF+Player+%7C+HTB+Enthusiast;MSc+Computer+Engineering)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
 
 ## 🎯 About Me
 
@@ -17,9 +10,7 @@
 
 🎓 **Master's Student** in Computer Engineering @ **UniCal**  
 🔐 Specializing in **Cybersecurity** & **Penetration Testing**  
-💾 Passionate about **Embedded Systems** & **Low-Level Programming**  
-🚩 Active **CTF Player** | **Hack The Box** Enthusiast  
-⚡ Building secure systems, one byte at a time
+💾 Passionate about **Embedded Systems**
 
 ---
 
