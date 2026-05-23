@@ -1,31 +1,3 @@
-L'utente chiede come scrivere un README accattivante per il proprio profilo GitHub. Mi fornisce:
-- Link al profilo: https://github.com/Gory-git
-- Studente magistrale in ingegneria informatica all'Unical, specializzando in cybersecurity
-- Passioni: cybersecurity (CTF, Hack The Box) e programmazione embedded
-- Vuole un tema neon/hacker
-
-L'utente sta chiedendo consigli su come strutturare il README del profilo GitHub (non di un repository specifico, ma il profilo personale).
-
-Dovrei:
-1. Spiegare cosa è un profile README su GitHub
-2. Fornire una struttura professionale ma accattivante
-3. Suggerire elementi grafici in tema neon/hacker
-4. Includere sezioni rilevanti per il suo background
-5. Fornire esempi di codice markdown con le giuste badge, gif, banner, etc.
-
-Non ho bisogno di fare una WebSearch perché si tratta di conoscenze standard su come creare un profile README su GitHub, che è una funzionalità ben documentata e stabile.
-
-Devo fornire una risposta professionale, dato che l'utente è uno studente magistrale e vuole qualcosa di serio ma accattivante. Fornirò un template completo con esempi di codice.## Struttura del Profile README
-
-Per creare un README accattivante sul tuo profilo GitHub, devi creare un **repository speciale con lo stesso nome del tuo username** (`Gory-git`). Il file `README.md` di questo repository apparirà automaticamente sulla tua pagina profilo.
-
----
-
-## Template Completo Tema Neon/Cybersecurity
-
-Ecco un template professionale con estetica hacker/neon che puoi personalizzare:
-
-```markdown
 <div align="center">
   
 # 🛡️ Gory | Cybersecurity Engineer 🛡️
@@ -148,30 +120,3 @@ class CybersecurityJourney:
 ![Visitor Count](https://profile-counter.glitch.me/Gory-git/count.svg)
 
 </div>
-```
-
----
-
-## 🎨 Personalizzazioni Aggiuntive
-
-### Banner Personalizzato
-Crea un banner neon usando **Canva** o **Photopea** con:
-- **Colori:** Verde neon (#00F700), Ciano (#00FFFF), Magenta (#FF00FF)
-- **Font:** Monospaced (Fira Code, JetBrains Mono, Courier New)
-- **Elementi:** Terminali, codice binario, icone di sicurezza
-
-Carica su **Imgur** e inserisci:
-```markdown
-![Banner](https://i.imgur.com/your-image.png)
-```
-
-### GIF Animate
-Aggiungi GIF a tema hacker da:
-- [Giphy](https://giphy.com) - cerca "hacker", "coding", "matrix"
-- [User-images GitHub](https://github.com/74038190)
-
-### Badges Personalizzati
-Crea badge custom su [shields.io](https://shields.io):
-```markdown
-![Custom Badge](https://img.shields.io/badge/Security-Expert-00F700?style=for-the-badge&logo=security&logoColor=white)
-```
