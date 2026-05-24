@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc5bjFrMXdxOHpiYW9hMjFiMTRqcXdqaTk2M2x3MHViNXhyYWhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif" width="500" alt="Rick" loading="lazy">
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc5bjFrMXdxOHpiYW9hMjFiMTRqcXdqaTk2M2x3MHViNXhyYWhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kbRb4eyCNC0aMz5x68/giphy.gif" width="500" alt="Rick" loading="lazy">
+</div>
 
 ## 🎯 About Me
 
