@@ -10,14 +10,15 @@
 ```
 
 🎓 **Master's Student** in Computer Engineering @ **UniCal**  
-🔐 Specializing in **Cybersecurity** 
-💾 Passionate about **Embedded Systems**
+🔐 Specializing in **Cybersecurity**  
+🧩 Tinkering with **ESP32**, **Raspberry Pi**, and more
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### Arsenal
+
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15B5B0?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -27,8 +28,11 @@
 ![winPEAS](https://img.shields.io/badge/winPEAS-111111?style=for-the-badge&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge&logoColor=00F700&labelColor=00F700)
+![ffuf](https://img.shields.io/badge/ffuf-0D1117?style=for-the-badge&logoColor=00F700&labelColor=00F700)
 
 ### Programming Languages
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,16 +44,21 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Hardware & Co.
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&logoColor=00F700&labelColor=00F700)
+![Zigbee](https://img.shields.io/badge/Zigbee-0D1117?style=for-the-badge&logoColor=00F700&labelColor=00F700)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gory-git&theme=radical&hide_border=true&background=0D1117&stroke=00F700&ring=00F700&fire=FF0000&currStreakLabel=00F700" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gory-git&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F700&line=00F700&point=FFFFFF&area_color=00F700&area=true&hide_border=true" />
@@ -60,9 +69,10 @@
 
 <div align="center">
 
-### 💭 Security Quote
+### 💭 Quote
 
-> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*  
-> — Gene Spafford
+<!-- QUOTE:START -->
+> (auto)
+<!-- QUOTE:END -->
 
 </div>
