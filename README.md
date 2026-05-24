@@ -50,8 +50,13 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![LoRa](https://img.shields.io/badge/LoRa-0D1117?style=for-the-badge&logoColor=00F700&labelColor=00F700)
-![Zigbee](https://img.shields.io/badge/Zigbee-0D1117?style=for-the-badge&logoColor=00F700&labelColor=00F700)
+<span style="display:inline-flex;align-items:center;vertical-align:middle;padding:0.37rem 0.60rem;border-radius:0;background:#EB0443;color:#FFFFFF;font-weight:600;font-family:Segoe UI,Arial,sans-serif;margin-left:-0.25rem;transform:translate(-6px,-10.5px)">
+  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="18" height="18" aria-label="ZigBee" style="vertical-align:middle;margin-right:6px;display:block"><title>zigbee</title><path fill="#FFFFFF" d="M11.988 0a11.85 11.85 0 00-8.617 3.696c7.02-.875 11.401-.583 13.289-.34 3.752.583 3.558 3.404 3.558 3.404L8.237 19.112c2.299.22 6.897.366 13.796-.631a11.86 11.86 0 001.912-6.469C23.945 5.374 18.595 0 11.988 0zm.232 4.31c-2.451-.014-5.772.146-9.963.723C.854 7.003.055 9.41.055 12.012.055 18.626 5.38 24 11.988 24c3.63 0 6.85-1.63 9.053-4.182-7.286.948-11.813.631-13.75.388-3.775-.56-3.557-3.404-3.557-3.404L15.691 4.474a38.635 38.635 0 00-3.471-.163Z"/></svg>
+  <span style="margin-left:6px;color:#FFFFFF;line-height:1;font-family:Verdana,DejaVu Sans,Segoe UI,Arial,sans-serif;font-size:11px;font-weight:600;letter-spacing:0.10em">ZIGBEE</span>
+</span>
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![4G](https://img.shields.io/badge/4G-0D1117?style=for-the-badge&logo=tower&logoColor=white)
+![5G](https://img.shields.io/badge/5G-0D1117?style=for-the-badge&logo=tower&logoColor=white)
 
 ---
 
