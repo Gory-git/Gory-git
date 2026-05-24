@@ -72,7 +72,7 @@
 ### 💭 Quote
 
 <!-- QUOTE:START -->
-> (auto)
+> Computer science is not about computers, any more than astronomy is about telescopes. — Marvin Minsky
 <!-- QUOTE:END -->
 
 </div>
