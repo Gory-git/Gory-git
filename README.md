@@ -71,7 +71,7 @@
 
 <div align="center">
 
-### 💭 Quote
+### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
 > One of the best ways to understand a system is to break it. — Ken Thompson
