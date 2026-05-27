@@ -74,7 +74,7 @@
 ### 💭 Quote
 
 <!-- QUOTE:START -->
-> Any tool is a weapon if you hold it right. — Cory Doctorow
+> One of the best ways to understand a system is to break it. — Ken Thompson
 <!-- QUOTE:END -->
 
 </div>
