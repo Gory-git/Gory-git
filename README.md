@@ -57,6 +57,16 @@
 
 ---
 
+## 🧠 HackTheBox
+
+<a href="https://app.hackthebox.com/profile/2182167">
+  <img src="https://www.hackthebox.eu/badge/image/2182167" 
+       alt="HackTheBox Profile"
+       width="400"/>
+</a>
+
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
