@@ -12,6 +12,7 @@
 🎓 **Master's Student** in Computer Engineering @ **UniCal**  
 🔐 Specializing in **Cybersecurity**  
 🧩 Tinkering with **ESP32**, **Raspberry Pi**, and more
+
 🖱️ More on [gory-git.github.io](https://gory-git.github.io)
 
 <a href="https://app.hackthebox.com/users/2182167">
