@@ -19,6 +19,8 @@
        width="200"/>
 </a>
 
+🖱️ More on [gory-git.github.io](https://gory-git.github.io)
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -86,4 +88,3 @@
 </div>
 
 ---
-🖱️ More on [gory-git.github.io](https://gory-git.github.io)
