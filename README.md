@@ -13,8 +13,6 @@
 🔐 Specializing in **Cybersecurity**  
 🧩 Tinkering with **ESP32**, **Raspberry Pi**, and more
 
-🖱️ More on [gory-git.github.io](https://gory-git.github.io)
-
 <a href="https://app.hackthebox.com/users/2182167">
   <img src="https://www.hackthebox.eu/badge/image/2182167" 
        alt="HackTheBox Profile"
@@ -86,3 +84,6 @@
 <!-- QUOTE:END -->
 
 </div>
+
+---
+🖱️ More on [gory-git.github.io](https://gory-git.github.io)
