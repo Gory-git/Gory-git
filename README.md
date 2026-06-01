@@ -9,9 +9,9 @@
 └─$ cat about.txt
 ```
 
-🎓 **Master's Student** in Computer Engineering @UniversitaDellaCalabria 
+🎓 **Master's Student** in Computer Engineering @UniversitaDellaCalabria  
 🔐 Specializing in **Cybersecurity**  
-🧩 Tinkering with **ESP32**, **Raspberry Pi**, and more
+🧩 Tinkering with **ESP32**, **Raspberry Pi**, and more  
 
 <a href="https://app.hackthebox.com/users/2182167">
   <img src="https://www.hackthebox.eu/badge/image/2182167" 
@@ -19,7 +19,7 @@
        width="200"/>
 </a>
 
-🖱️ More on [gory-git.github.io](https://gory-git.github.io)
+🖱️ More on [gory-git.github.io](https://gory-git.github.io)  
 
 ---
 
