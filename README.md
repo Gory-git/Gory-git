@@ -9,7 +9,7 @@
 └─$ cat about.txt
 ```
 
-🎓 **Master's Student** in Computer Engineering @ **UniCal**  
+🎓 **Master's Student** in Computer Engineering @UniversitaDellaCalabria 
 🔐 Specializing in **Cybersecurity**  
 🧩 Tinkering with **ESP32**, **Raspberry Pi**, and more
 
