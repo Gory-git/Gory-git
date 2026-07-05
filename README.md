@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> Computer science is not about computers, any more than astronomy is about telescopes. — Marvin Minsky
+> One of the best ways to understand a system is to break it. — Ken Thompson
 <!-- QUOTE:END -->
 
 </div>
