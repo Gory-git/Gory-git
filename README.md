@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> One of the best ways to understand a system is to break it. — Ken Thompson
+> Any tool is a weapon if you hold it right. — Cory Doctorow
 <!-- QUOTE:END -->
 
 </div>
