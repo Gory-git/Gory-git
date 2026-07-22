@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> The Internet: where men are men, women are men, and children are skilled hackers. — Eugene H. Spafford
+> Any tool is a weapon if you hold it right. — Cory Doctorow
 <!-- QUOTE:END -->
 
 </div>
