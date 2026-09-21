@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> The Internet: where men are men, women are men, and children are skilled hackers. — Eugene H. Spafford
+> Computer science is not about computers, any more than astronomy is about telescopes. — Marvin Minsky
 <!-- QUOTE:END -->
 
 </div>
