@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> The Internet: where men are men, women are men, and children are skilled hackers. — Eugene H. Spafford
+> One of the best ways to understand a system is to break it. — Ken Thompson
 <!-- QUOTE:END -->
 
 </div>
