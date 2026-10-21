@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards. — Gene Spafford
+> One of the best ways to understand a system is to break it. — Ken Thompson
 <!-- QUOTE:END -->
 
 </div>
