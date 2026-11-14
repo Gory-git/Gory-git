@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> Any tool is a weapon if you hold it right. — Cory Doctorow
+> The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards. — Gene Spafford
 <!-- QUOTE:END -->
 
 </div>
