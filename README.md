@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> Computer science is not about computers, any more than astronomy is about telescopes. — Marvin Minsky
+> Any tool is a weapon if you hold it right. — Cory Doctorow
 <!-- QUOTE:END -->
 
 </div>
