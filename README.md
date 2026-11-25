@@ -82,7 +82,7 @@
 ### 💭 Quote of the Day
 
 <!-- QUOTE:START -->
-> Computer science is not about computers, any more than astronomy is about telescopes. — Marvin Minsky
+> The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards. — Gene Spafford
 <!-- QUOTE:END -->
 
 </div>
